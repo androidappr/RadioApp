@@ -1,0 +1,307 @@
+{
+  "channel": {
+    "stations": [
+      {
+        "id": 1,
+        "name": "Radio Bhumi 92.8 FM",
+        "tags": "Music, News, Pop, Culture, Entertainment",
+        "img": "",
+        "link_radio": "https://stream.zeno.fm/ybf1umk1k18uv"
+      },
+      {
+        "id": 2,
+        "name": "Jago FM 94.4 FM",
+        "tags": "Pop, Hits, Entertainment, Youth, Talk",
+        "img": "",
+        "link_radio": "http://139.59.86.99:12496/stream"
+      },
+      {
+        "id": 3,
+        "name": "Peoples Radio 91.6 FM",
+        "tags": "Pop, Music, News, Entertainment, Talk",
+        "img": "",
+        "link_radio": "http://s3.myradiostream.com:14498"
+      },
+      {
+        "id": 4,
+        "name": "Bangladesh Betar 100.0 FM",
+        "tags": "Public, News, Culture, Information, Talk",
+        "img": "",
+        "link_radio": "http://as3.digitalsynapsebd.com:8582/;stream.mp3"
+      },
+      {
+        "id": 5,
+        "name": "Radio Shadhin 92.4 FM",
+        "tags": "Music, Talk, Pop, Youth, Entertainment",
+        "img": "",
+        "link_radio": "https://stream.zeno.fm/eabgu655puquv"
+      },
+      {
+        "id": 6,
+        "name": "Radio Today 89.6 FM",
+        "tags": "Pop, News, Commercial, Top 40, Entertainment",
+        "img": "",
+        "link_radio": "http://stream.zenolive.com/c0dbkecz5f5tv"
+      },
+      {
+        "id": 7,
+        "name": "Radio Vivid Voice",
+        "tags": "Community, Talk, Music, Variety",
+        "img": "",
+        "link_radio": "https://stream.zeno.fm/xuin6ocdc2juv"
+      },
+      {
+        "id": 8,
+        "name": "Audio Play Bangla",
+        "tags": "Audiobooks, Drama, Bangla, Entertainment, Stories",
+        "img": "",
+        "link_radio": "https://stream.zeno.fm/hrawdb5yx8ovv"
+      },
+      {
+        "id": 9,
+        "name": "FM Kuthi Bari",
+        "tags": "Folk, Music, Culture, Entertainment",
+        "img": "",
+        "link_radio": "https://listen.radioking.com/radio/1743/stream/125"
+      },
+      {
+        "id": 10,
+        "name": "Quran er Alo",
+        "tags": "Islamic, Quran, Religious, Talk, Spiritual",
+        "img": "",
+        "link_radio": "http://66.45.232.131:9994/"
+      },
+      {
+        "id": 11,
+        "name": "Radio GoonGoon",
+        "tags": "Music, Pop, Entertainment, Hits",
+        "img": "",
+        "link_radio": "https://audio.streamcast.xyz/radio/8000/radio.mp3?"
+      },
+      {
+        "id": 12,
+        "name": "Allahu Akbar Radio",
+        "tags": "Islamic, Quran, Religious, Spiritual",
+        "img": "",
+        "link_radio": "http://66.45.232.132:9996"
+      },
+      {
+        "id": 13,
+        "name": "Radio JKKNIU",
+        "tags": "Campus, Student, Music, News, Education",
+        "img": "",
+        "link_radio": "https://stream.zeno.fm/risgdzpf1cxtv"
+      },
+      {
+        "id": 14,
+        "name": "Radio Gaan Baksho",
+        "tags": "Bangla, Music, Hits, Diaspora, Entertainment",
+        "img": "",
+        "link_radio": "https://cast1.asurahosting.com/proxy/gaanbaks/stream/"
+      },
+      {
+        "id": 15,
+        "name": "Radio Sondhi",
+        "tags": "Music, Community, Culture, Local",
+        "img": "",
+        "link_radio": "https://stream.zeno.fm/4k1vwiexedzvv"
+      },
+      {
+        "id": 16,
+        "name": "Provat Fm",
+        "tags": "Morning, News, Music, Community",
+        "img": "",
+        "link_radio": "https://stream.zeno.fm/4k1vwiexedzvv"
+      },
+      {
+        "id": 17,
+        "name": "Radio Dawah Bangla",
+        "tags": "Islamic, Dawah, Religious, Spiritual, Lectures",
+        "img": "",
+        "link_radio": "https://stream.zeno.fm/rzkykmse9zcuv"
+      },
+      {
+        "id": 18,
+        "name": "Radio Capital FM 94.8",
+        "tags": "Pop, Music, News, Talk, Entertainment",
+        "img": "",
+        "link_radio": "http://str.radiocapital.fm:8000/stream"
+      },
+      {
+        "id": 19,
+        "name": "Bangladesh Betar 102.5 FM",
+        "tags": "Public, News, Culture, Government, Music",
+        "img": "",
+        "link_radio": "http://as3.digitalsynapsebd.com:8582/;stream.mp3"
+      },
+      {
+        "id": 20,
+        "name": "Bangladesh Betar AM",
+        "tags": "Public, News, Agriculture, Information, Regional",
+        "img": "",
+        "link_radio": "http://as3.digitalsynapsebd.com:8582/;stream.mp3"
+      },
+      {
+        "id": 21,
+        "name": "A2Z Radio",
+        "tags": "Variety, Music, Entertainment, Mix",
+        "img": "",
+        "link_radio": "https://listen.radioking.com/radio/1743/stream/125"
+      },
+      {
+        "id": 22,
+        "name": "Bangla Al-Quran",
+        "tags": "Islamic, Quran, Recitation, Translation, Religious",
+        "img": "",
+        "link_radio": "http://66.45.232.131:9994/;stream/1/"
+      },
+      {
+        "id": 23,
+        "name": "IWI FM",
+        "tags": "Community, Music, Variety, Internet Radio",
+        "img": "",
+        "link_radio": "http://s2.myradiostream.com:29270/"
+      },
+      {
+        "id": 24,
+        "name": "Radio Sarabela 98.8",
+        "tags": "Community, Regional, News, Culture, Music",
+        "img": "",
+        "link_radio": "https://broadcast.energytech.com.bd/stream/1/"
+      },
+      {
+        "id": 25,
+        "name": "Radio Shadhin",
+        "tags": "Music, Pop, Youth, Talk, Entertainment",
+        "img": "",
+        "link_radio": "https://stream.zeno.fm/eabgu655puquv"
+      },
+      {
+        "id": 26,
+        "name": "Radio Ullash",
+        "tags": "Music, Pop, Youth, Entertainment",
+        "img": "",
+        "link_radio": "https://stream.zeno.fm/gpgkgp9mp18uv.mp3"
+      },
+      {
+        "id": 27,
+        "name": "Radio Uthsob",
+        "tags": "Festival, Music, Culture, Entertainment",
+        "img": "",
+        "link_radio": "https://icecast.maxxwave.co.uk/utsav"
+      },
+      {
+        "id": 28,
+        "name": "Roots Air BD",
+        "tags": "Folk, Roots, Culture, Music",
+        "img": "",
+        "link_radio": "http://live64.zeilsteen.com:7054/"
+      },
+      {
+        "id": 29,
+        "name": "Uttorbango Betar",
+        "tags": "Regional, Culture, Folk, News, Local",
+        "img": "",
+        "link_radio": "https://stream.zeno.fm/spqbxkqxdf9uv"
+      },
+      {
+        "id": 30,
+        "name": "Radio Janjot",
+        "tags": "Traffic, News, Music, Updates",
+        "img": "",
+        "link_radio": "http://streaming.radionomy.com/RadioJanjot?type=.mp3"
+      },
+      {
+        "id": 31,
+        "name": "Spice FM BD 96.4",
+        "tags": "Pop, Hits, Dance, Youth, Entertainment",
+        "img": "",
+        "link_radio": "https://stream.spicefmbd.com/stream.m3u8"
+      },
+      {
+        "id": 32,
+        "name": "Radio Bushra",
+        "tags": "Islamic, Spiritual, Talk, Culture",
+        "img": "",
+        "link_radio": "https://stream.zeno.fm/mzuka1fdxzzuv"
+      },
+      {
+        "id": 33,
+        "name": "Radio Purbakantho",
+        "tags": "Regional, News, Music, Community",
+        "img": "",
+        "link_radio": "https://stream.zeno.fm/r8sntxcw81zuv"
+      },
+      {
+        "id": 34,
+        "name": "Hemel Music",
+        "tags": "Music, Songs, Instrumental, Melodies",
+        "img": "",
+        "link_radio": "https://stream.zeno.fm/s4f64yu82c9uv"
+      },
+      {
+        "id": 35,
+        "name": "Abdulbasit Abdulsamad",
+        "tags": "Islamic, Quran, Recitation, Tilawat",
+        "img": "",
+        "link_radio": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+      },
+      {
+        "id": 36,
+        "name": "AL-QURAN BANGLA",
+        "tags": "Islamic, Quran, Translation, Religious",
+        "img": "",
+        "link_radio": "http://66.45.232.131:9994/"
+      },
+      {
+        "id": 37,
+        "name": "Jago FM 94.4",
+        "tags": "Pop, Hits, Entertainment, Youth, Talk",
+        "img": "",
+        "link_radio": "http://139.59.86.99:12496/stream"
+      },
+      {
+        "id": 38,
+        "name": "Mellow Bangla",
+        "tags": "Soft Rock, Melodies, Easy Listening, Music",
+        "img": "",
+        "link_radio": "https://radio.mellowbangla.com/stream"
+      },
+      {
+        "id": 39,
+        "name": "Muhammad Siddiq al-Minshawi",
+        "tags": "Islamic, Quran, Recitation, Tilawat",
+        "img": "",
+        "link_radio": "https://qurango.net/radio/mohammed_siddiq_alminshawi"
+      },
+      {
+        "id": 40,
+        "name": "Radio Bhumi",
+        "tags": "Music, News, Pop, Culture, Entertainment",
+        "img": "",
+        "link_radio": "https://stream-156.zeno.fm/be5bqmk1k18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiZTVicW1rMWsxOHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjB1c0x1ZURGVEhTR0EwSDE1N2VBVmciLCJpYXQiOjE3MzU0NTM5MjQsImV4cCI6MTczNTQ1Mzk4NH0.vjlgqsHzQRt-_2T0LIHscJkAVHXd8hYV8Z6NDvvEWYk"
+      },
+      {
+        "id": 41,
+        "name": "Rajshahi FM",
+        "tags": "Regional, Local, News, Music, Community",
+        "img": "",
+        "link_radio": "https://stream.zeno.fm/nxfshdayjrdvv"
+      },
+      {
+        "id": 42,
+        "name": "S-Radio",
+        "tags": "Music, Variety, Entertainment, Online",
+        "img": "",
+        "link_radio": "https://as1.digitalsynapsebd.com/proxy/zkpnarpg/stream"
+      },
+      {
+        "id": 43,
+        "name": "Bangladesh Betar commercial activities",
+        "tags": "Public, Commercial, Drama, Music, Entertainment",
+        "img": "",
+        "link_radio": "http://as1.digitalsynapsebd.com:8741/;"
+      }
+    ]
+  }
+}
